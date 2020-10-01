@@ -10,7 +10,8 @@ a few twists.  Code can depend on just this interface and have the actual
 logging implementation be injected from callers.  Ideally only `main()` knows
 what logging implementation is being used.
 
-# Differences from Dave's ideas
+# Differences from Dave's good ideas
+
 
 The main differences are:
 
